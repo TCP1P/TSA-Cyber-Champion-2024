@@ -1,0 +1,43 @@
+name: Eksploitasi Kerentanan XSS V2
+author: dimas
+description: '**Author**: dimas
+
+
+  Di sebuah lembaga penelitian kesehatan terkemuka, Anda diberikan akses ke aplikasi web internal yang memiliki fitur pencarian dan tampilan profil pengguna. Namun, aplikasi ini memiliki kerentanan XSS (Cross-Site Scripting) yang dapat dimanfaatkan untuk tujuan keamanan.
+
+
+  Sebagai seorang analis keamanan, tugas Anda adalah memanfaatkan kerentanan XSS ini untuk mengeksekusi JavaScript di dalam aplikasi dan menemukan kode rahasia yang tersembunyi. Setelah menemukan kode rahasia tersebut, Anda perlu mendekripsi kode untuk mengungkap flag yang tersembunyi. Flag ini berisi informasi penting yang dapat mempengaruhi keputusan atau penelitian medis.
+
+
+  ~~contoh clue dengan algorithm yang sama :~~
+
+
+  ~~Original : Health Kathon 2024~~
+
+
+  ~~Enkripsi : Gd0ksg J0sgnm 1,13~~
+
+
+  ~~Gunakan format BPJS{} untuk menjawabnya~~
+
+
+  Website: http://{{ .host }}:23218
+
+
+  Botnya mana?
+
+
+  Bot: http://{{ .host }}:7719
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/bayufedra/CTF-Challenge-Archive/tree/main/2024-TSA-Cyber-Champion/Web/exploitasi-kerentanan-xss-v2).'
+type: StaticAttachment
+category: Web
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- TSA{connection_pool_manipulation_to_get_xss}
+provide: dist

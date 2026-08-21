@@ -1,0 +1,15 @@
+title: TSA Cyber Champion 2024
+start: '2024-12-25T00:00:00Z'
+end: '2024-12-27T00:00:00Z'
+hidden: true
+summary: Historical TSA Cyber Champion 2024 challenge archive, converted for RSCTF practice.
+content: 'This event was imported from [bayufedra/CTF-Challenge-Archive](https://github.com/bayufedra/CTF-Challenge-Archive).
+
+
+  It starts hidden for organizer review. Historical service endpoints may be offline; each challenge links to its source archive.'
+acceptWithoutReview: true
+teamMemberCountLimit: 4
+containerCountLimit: 3
+practiceMode: true
+writeupRequired: false
+writeupNote: Writeups are optional for this historical practice event.

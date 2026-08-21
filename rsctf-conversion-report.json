@@ -1,0 +1,39 @@
+{
+  "sourceRepository": "bayufedra/CTF-Challenge-Archive",
+  "targetRepository": "TCP1P/TSA-Cyber-Champion-2024",
+  "private": false,
+  "events": [
+    "TSA Cyber Champion 2024"
+  ],
+  "challenges": [
+    {
+      "name": "Eksploitasi Kerentanan XSS V2",
+      "category": "Web",
+      "source": "Web/exploitasi-kerentanan-xss-v2/challenge.yml",
+      "sourceUrl": "https://github.com/bayufedra/CTF-Challenge-Archive/tree/main/2024-TSA-Cyber-Champion/Web/exploitasi-kerentanan-xss-v2",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Web/eksploitasi-kerentanan-xss-v2/challenge.yaml"
+    },
+    {
+      "name": "File Not Found v2",
+      "category": "Web",
+      "source": "Web/file-not-found-v2/challenge.yml",
+      "sourceUrl": "https://github.com/bayufedra/CTF-Challenge-Archive/tree/main/2024-TSA-Cyber-Champion/Web/file-not-found-v2",
+      "type": "StaticAttachment",
+      "warnings": [
+        "no player attachment files were present"
+      ],
+      "manifest": "Jeopardy/Web/file-not-found-v2/challenge.yaml"
+    },
+    {
+      "name": "New Gadget",
+      "category": "Web",
+      "source": "Web/new-gadget/challenge.yml",
+      "sourceUrl": "https://github.com/bayufedra/CTF-Challenge-Archive/tree/main/2024-TSA-Cyber-Champion/Web/new-gadget",
+      "type": "StaticAttachment",
+      "warnings": [],
+      "manifest": "Jeopardy/Web/new-gadget/challenge.yaml"
+    }
+  ]
+}

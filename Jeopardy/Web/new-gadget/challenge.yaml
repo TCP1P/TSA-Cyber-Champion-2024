@@ -1,0 +1,27 @@
+name: New Gadget
+author: dimas
+description: '**Author**: dimas
+
+
+  Feel free to write an article about the gadget, even if you didn''t manage to solve it!
+
+  If you do, please don''t forget to mention me.
+
+
+  Thanks a lot!
+
+
+  Website: http://{{ .host }}:9141
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/bayufedra/CTF-Challenge-Archive/tree/main/2024-TSA-Cyber-Champion/Web/new-gadget).'
+type: StaticAttachment
+category: Web
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- TSA{new_prototype_pollution_gadget_with_mongoose}
+provide: dist
