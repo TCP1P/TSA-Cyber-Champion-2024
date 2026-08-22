@@ -1,5 +1,0 @@
-File Not Found v2
-
-Original source: https://github.com/bayufedra/CTF-Challenge-Archive/tree/main/2024-TSA-Cyber-Champion/Web/file-not-found-v2
-
-Local archive note: no player attachment files were present.
