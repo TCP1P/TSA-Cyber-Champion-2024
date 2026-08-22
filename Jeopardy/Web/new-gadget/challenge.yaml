@@ -19,7 +19,6 @@ description: '**Author**: dimas
   Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/bayufedra/CTF-Challenge-Archive/tree/main/2024-TSA-Cyber-Champion/Web/new-gadget).'
 type: StaticAttachment
 category: Web
-minScoreRate: 0.25
 difficulty: 5
 disableBloodBonus: false
 flags:
