@@ -17,7 +17,6 @@ description: '**Author**: dimas
   Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/bayufedra/CTF-Challenge-Archive/tree/main/2024-TSA-Cyber-Champion/Web/file-not-found-v2).'
 type: DynamicContainer
 category: Web
-minScoreRate: 0.25
 difficulty: 5
 disableBloodBonus: false
 flagTemplate: TSA{file_not_fou[TEAM_HASH]}
